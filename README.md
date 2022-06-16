@@ -13,7 +13,7 @@
 <details>
   <summary>☎️ Contacta-me</summary>
 <div>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">😎 Podes me contactar:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/francisco-costa-13a275230/" target="blank"><img align="center"
@@ -35,7 +35,7 @@
 <details>
   <summary>🧮 Sobre mim : </summary>
 <div>
-<h2 align="center">🧮 About this Account</h2>
+<h2 align="center">🧮 Sobre a minha conta :</h2>
  <p align="center">
   <a href="github.com/FranciscoCOsta" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
@@ -60,7 +60,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
+    <h2 align="center"> 📊 Github Stats </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/FranciscoCosta">
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-  <summary>📈 Activity Graph</summary>
+  <summary>📈 Gráfico de actividade </summary>
   <br/>
   <h2 align="center"> Minha actividade </h2>
 <a href="https://github.com/FranciscoCosta/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=franciscocosta&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
