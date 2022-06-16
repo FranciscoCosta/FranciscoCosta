@@ -4,11 +4,8 @@
 <h4 align="center">Desenvolvedor Web Full Stack</h4>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/francisco-costa-13a275230/">
-  <img  src="https://github.com/FranciscoCosta/FranciscoCosta/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![Snake animation](https://github.com/FranciscoCosta/FranciscoCosta/blob/output/github-contribution-grid-snake.svg)
+
 
 <details>
   <summary>☎️ Contacta-me</summary>
