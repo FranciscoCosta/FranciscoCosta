@@ -34,7 +34,7 @@
 <div>
 <h2 align="center">🧮 Sobre a minha conta :</h2>
  <p align="center">
-  <a href="github.com/FranciscoCOsta" target="blank"><img align="center" 
+  <a href="github.com/FranciscoCosta" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
      alt="spying counter" /></a>
   <a href="github.com/FranciscoCosta" target="blank"><img align="center" 
@@ -61,7 +61,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/FranciscoCosta">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCosta &langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="FranciscoCosta :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscocosta&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="FranciscoCosta :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/FranciscoCosta">
