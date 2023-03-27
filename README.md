@@ -8,9 +8,9 @@
 
 
 <details>
-  <summary>☎️ Contacta-me</summary>
+  <summary>☎️ Contacta-me:</summary>
 <div>
-    <h2 align="center">😎 Podes me contactar:</h2>
+    <h2 align="center">📝 Podes me contactar:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/francisco-costa-13a275230/" target="blank"><img align="center"
