@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Olá <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Eu sou Francisco Costa</h1>
+<h1 align="center">Olá <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Eu sou o Francisco Costa</h1>
 <h4 align="center">Desenvolvedor Web Full Stack</h4>
 </div>
 
