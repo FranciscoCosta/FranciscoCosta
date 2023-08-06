@@ -41,11 +41,11 @@ O meu nome é Francisco Costa , tenho 30 anos e nasci no norte de Portugal, na c
   </p>
   <h3 align="center">Por onde andei...:earth_americas:</h3>
   <p align="center">
-  Sempre gostei de conhecer lugares novos e outras culturas. Tive a o oportunidade de viajar bastante e fiquei a viver durante 1 ano na Espanha. Desde 2021 vivo no Brasil , em MG na cidade de Belo Horizonte.
+  Sempre gostei de conhecer lugares novos e outras culturas. Tive a o oportunidade de viajar bastante e fiquei a viver durante 1 ano na Espanha. Desde 2021 vivo no Brasil.
   </p>
   <h3 align="center">Curiosidades !	:interrobang:</h3>
     <p align="center">
- Fatos aleatórios sobre mim: Pratiquei Taewkondo durante 11 anos , já fui campeão nacional de Full-Contact sei tocar Piano. Além disso, sou casado , vim com a minha esposa e cachorro para o Brasil e tenho um canal no Youtube.
+ Fatos aleatórios sobre mim: Pratiquei Taewkondo durante 11 anos , já fui campeão nacional de Full-Contact sei tocar Piano. Além disso, sou casado , vim com a minha esposa e cachorro para o Brasil.
   </p>
   
   <h3 align="center">Curiosidades !	:guide_dog:</h3>
