@@ -30,7 +30,7 @@ My name is **Francisco Costa**, a 32-year-old full-stack web developer from Brag
 ### 🌍 Where Have I Been?
 I love exploring new places and learning about different cultures. I’ve traveled extensively and lived in Spain for a year. Since 2021, I’ve been residing in Brazil.
 
-### 🔍 Fun Facts
+### 🔍 Fun Facts about me
 - I practiced Taekwondo for 11 years and was a national champion in Full-Contact.
 - I know how to play the piano.
 - I'm married and moved to Brazil with my wife and our dog, Edu.
