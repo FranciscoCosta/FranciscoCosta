@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hello, I'm Francisco Costa</h1>
-  <h4 align="center">Full Stack Web Developer.</h4>
+  <h4 align="center">Full Stack Web Developer</h4>
 </div>
 
 ---
