@@ -22,7 +22,7 @@
 
 ---
 
-## 🧮 About Me
+## 🧮 About Me.
 
 ### 👨‍💻 Who Am I?
 My name is **Francisco Costa**, a 32-year-old full-stack web developer from Braga, Portugal. I hold a degree in Geographic Engineering from the University of Porto.
