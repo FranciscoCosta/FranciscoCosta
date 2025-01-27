@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hello, I'm Francisco Costa.</h1>
+  <h1 align="center">Hello, I'm Francisco Costa</h1>
   <h4 align="center">Full Stack Web Developer</h4>
 </div>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧮 About Me.
+## 🧮 About Me
 
 ### 👨‍💻 Who Am I?
 My name is **Francisco Costa**, a 32-year-old full-stack web developer from Braga, Portugal. I hold a degree in Geographic Engineering from the University of Porto.
